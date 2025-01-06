@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Gruvbox-Plus
+Comment=Theme based on the gruvbox color scheme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Gruvbox-Plus
+MetacityTheme=Gruvbox-Plus
+IconTheme=Gruvbox-Plus-Dark
+CursorTheme=breeze_cursors
+ButtonLayout=menu:minimize,maximize,close

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Klaus
+Comment=Theme based on the gruvbox color scheme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Klaus
+MetacityTheme=Klaus
+IconTheme=Gruvbox-Material-Dark
+CursorTheme=breeze_cursors
+CursorSize=24
+ButtonLayout=menu:minimize,maximize,close

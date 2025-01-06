@@ -1,0 +1,35 @@
+
+
+##
+## # Develop
+##
+
+
+
+
+##
+## ## Package / Develop
+##
+
+build-essential
+
+debhelper
+
+live-build
+xorriso
+squashfs-tools
+genisoimage
+
+dkms
+
+tree
+
+python3-github
+
+meld
+
+php-cli
+
+sassc
+
+optipng
